@@ -9,6 +9,9 @@
 #include <dt-bindings/zmk/keys.h>
 
 / {
+    behaviors {
+    };
+
     combos {
         compatible = "zmk,combos";
 
