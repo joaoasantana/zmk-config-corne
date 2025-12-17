@@ -44,11 +44,6 @@
             bindings = <&kp ESC>;
             key-positions = <19 20>;
         };
-
-        WinAlt {
-            bindings = <&kp LEFT_ALT>;
-            key-positions = <36 37>;
-        };
     };
 
     keymap {
